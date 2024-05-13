@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\bin\Debug\pryMuñozEtapa2(verdadero).exe.config
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\bin\Debug\pryMuñozEtapa2(verdadero).exe
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\bin\Debug\pryMuñozEtapa2(verdadero).pdb
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2(verdadero).csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2_verdadero_.frmMain.resources
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2_verdadero_.Properties.Resources.resources
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2(verdadero).csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2(verdadero).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2(verdadero).exe
+C:\Users\Usuario\source\repos\pryMuñozEtapa2(verdadero)\pryMuñozEtapa2(verdadero)\obj\Debug\pryMuñozEtapa2(verdadero).pdb
